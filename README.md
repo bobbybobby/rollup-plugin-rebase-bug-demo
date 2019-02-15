@@ -1,5 +1,5 @@
 # rollup-plugin-rebase-bug-demo
-Demonstration for a bug with rollup-plugin-rebase
+Demonstration for a bug with rollup-plugin-rebase. Related GH issue  : https://github.com/sebastian-software/rollup-plugin-rebase/issues/19 
 
 Reproduce bug : 
 
