@@ -8,7 +8,7 @@ module.exports = {
     format: 'cjs',
     sourcemap: true
   },
-  //preserveModules: true,
+  preserveModules: true,
   plugins: [
     babel({
       exclude: 'node_modules/**'
